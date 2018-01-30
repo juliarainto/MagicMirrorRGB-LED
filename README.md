@@ -1,6 +1,6 @@
 # MagicMirrorRGB-LED
 
-### Using FastLED library to control LED-Type WS2812B LED Strip 
+## Using FastLED library to control LED-Type WS2812B LED Strip 
 
 ### You will need:
 
